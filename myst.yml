@@ -1,0 +1,19 @@
+version: 1
+
+project:
+  id: 6f8ffb8e-b9ec-4797-b24e-d44c29b10078
+  title: Scientific Python and Data Skills
+  description: Scientific Python and data analysis notes for B.Sc. Semiconductor Science and Technology
+  keywords:
+    - Python
+    - Scientific Computing
+    - Data Analysis
+    - Semiconductor Science
+    - Electronics
+    - NumPy
+    - Matplotlib
+  authors:
+    - Suresh Parit
+
+site:
+  template: book-theme
